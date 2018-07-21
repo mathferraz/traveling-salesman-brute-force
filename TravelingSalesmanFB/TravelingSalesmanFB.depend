@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1528748941 source:/home/matheus/Documentos/projCodeBlocks/CaixeiroViajantaFB/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1529019064 source:/home/matheus/Documentos/Dev/projCodeBlocks/CaixeiroViajanteFB/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1532173026 source:/home/matheus/Documentos/Dev/projCodeBlocks/TravelingSalesmanFB/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
